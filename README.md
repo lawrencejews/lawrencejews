@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Lawrence
 #### Web Programming and Machine Learning
-![Web Programming and Machine Learning](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Programming and Machine Learning](https://github.com/lawrencejews/lawrencejews/blob/main/profile.jpeg)
 
 I am Lawrence South Korea, and I do web programming and machine learning. I really enjoy learning languages and frameworks like Angular, React, and Vue. I also like work on Machine Learning.
 
