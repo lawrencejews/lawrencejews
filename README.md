@@ -1,4 +1,4 @@
-![Web Programming and Machine Learning][<img src="https://github.com/lawrencejews/lawrencejews/blob/main/profile.jpeg" width="256"/>
+![Web Programming and Machine Learning][<img src="https://github.com/lawrencejews/lawrencejews/blob/main/profile.jpeg" width="256"/>]
 # I'm Lawrence
 ## Web Programming and Machine Learning
 
