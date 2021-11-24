@@ -1,8 +1,8 @@
 ![Web Programming and Machine Learning](https://github.com/lawrencejews/lawrencejews/blob/main/profile.jpeg)
 # I'm Lawrence
-## Web Programming and Machine Learning
+## Web Programming, Machine Learning and Deep Learning.
 
-I am Lawrence in South Korea, and I do web programming and machine learning. I really enjoy learning languages and frameworks like Angular, React, and Vue. I also work in Machine Learning.
+I am Lawrence in South Korea, and I do web programming, machine learning and deep learning. I really enjoy learning programming languages and frameworks like Angular, React, and Vue.
 
 ## Skills and Experience
 * ⚛️ React
