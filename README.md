@@ -2,7 +2,7 @@
 # I'm Lawrence
 ## Web Programming, Machine Learning and Deep Learning.
 
-I am Lawrence in South Korea, and I do web programming, machine learning and deep learning. I really enjoy learning programming languages and frameworks like Angular, React, and Vue.
+I am Lawrence. I do web programming, machine learning and deep learning. I really enjoy learning programming languages and frameworks like Angular, React, and Vue.
 
 ## Skills and Experience
 * ⚛️ React
