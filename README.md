@@ -1,6 +1,6 @@
 ![Web Programming and Machine Learning](https://github.com/lawrencejews/lawrencejews/blob/main/profile.jpeg)
 # I'm Lawrence
-## Web Programming, Machine Learning and Deep Learning.
+## Web Development, Machine Learning and Deep Learning.
 
 I am Lawrence. I do web programming, machine learning and deep learning. I really enjoy learning programming languages and frameworks like Angular, React, and Vue.
 
