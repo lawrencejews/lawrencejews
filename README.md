@@ -1,4 +1,4 @@
-![Web Programming and Machine Learning](https://github.com/lawrencejews/lawrencejews/blob/main/profile.jpeg)
+![Web Programming and Machine Learning](https://github.com/lawrencejews/lawrencejews/blob/main/financeDashboard.png)
 # I'm Lawrence
 ## Web Development, Machine Learning and Deep Learning.
 
