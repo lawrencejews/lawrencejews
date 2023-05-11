@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Lawrence</h1>
-<h3 align="center">I really enjoy building and learning programming languages with frameworks like Angular, React, and Vue.</h3>
+<h3 align="center">I really enjoy building and learning different programming languages</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawrencejews&label=Profile%20views&color=0e75b6&style=flat" alt="lawrencejews" /> </p>
 
