@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Google Cloud ACE**
 
-- 💬 Ask me about **React, Angular and MERN**
+- 💬 Ask me about **Angular, Mongo, Express, React and Node**
 
 - 📫 How to reach me **lawrencejews@gmail.com**
 
