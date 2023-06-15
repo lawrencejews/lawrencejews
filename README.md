@@ -10,8 +10,6 @@
 - 💬 Ask me about **Angular, Mongo, Express, React and Node**
 
 - 📫 How to reach me **lawrencejews@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
