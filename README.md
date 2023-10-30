@@ -2,9 +2,11 @@
 <h3 align="center">I really enjoy building and learning different programming languages</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawrencejews&label=Profile%20views&color=0e75b6&style=flat" alt="lawrencejews" /> </p>
-## Sole Project
+<h3 align="left">Sole Projects:</h3>
 - 🔭 Finished working on [Finance Dashoarboard with Machine Learning](https://finance-dashboard-pi-rouge.vercel.app/)
-
+<h3 align="left">Team projects:</h3>
+- Media art's zipshowkorea website [zipshowkorea.com](https://zipshowkorea.com)
+- Reservation locationpick website [zipshowkorea.com](https://zipshowkorea.com)
 - 🌱 I’m currently learning ** kubernetes-Google, AWS and Azure **
 
 - 💬 Ask me about ** Mongo, Express, React and Node**
