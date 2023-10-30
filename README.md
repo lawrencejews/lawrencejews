@@ -2,15 +2,15 @@
 <h6 align="center">I really enjoy building and learning different programming languages</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawrencejews&label=Profile%20views&color=0e75b6&style=flat" alt="lawrencejews" /> </p>
 <h6 align="left">Sole Projects:</h6>
-## 🔭 Finished working on [Finance Dashoarboard with Machine Learning](https://finance-dashboard-pi-rouge.vercel.app/)
+<p align="left"> 🔭 Finished working on [Finance Dashoarboard with Machine Learning](https://finance-dashboard-pi-rouge.vercel.app/) />
 <h6 align="left">Team projects:</h6>
-## Media art's zipshowkorea website : https://zipshowkorea.com 
-## Reservation locationpick website : https://locationpick.com
+<p align="left"> Media art's zipshowkorea website : https://zipshowkorea.com </p>
+<p align="left"> Reservation locationpick website : https://locationpick.com </p>
 <h6 align="left">Growth plan:</h6>
-## 🌱 I’m currently learning **kubernetes-Google, AWS and Azure**
-## 💬 Ask me about **Mongo, Express, React and Node**
+<p align="left">🌱 I’m currently learning **kubernetes-Google, AWS and Azure**</p>
+<p align="left"> 💬 Ask me about **Mongo, Express, React and Node**</p>
 <h6 align="left">Contact:</h6>
-## 📫 How to reach me **lawrencejews@gmail.com**
+<p align="left"> 📫 How to reach me **lawrencejews@gmail.com** </p>
 <p align="left">
 </p>
 <h6 align="left">Languages and Tools:</h6>
