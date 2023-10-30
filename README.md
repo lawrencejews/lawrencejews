@@ -7,7 +7,7 @@
 <p align="left"> Media art's zipshowkorea website : https://zipshowkorea.com </p>
 <p align="left"> Reservation locationpick website : https://locationpick.com </p>
 <h6 align="left">Growth plan:</h6>
-<p align="left">🌱 I’m currently learning **kubernetes-Google, AWS and Azure**</p>
+<p align="left">🌱 I’m currently learning **kubernetes -> Google, AWS and Azure**</p>
 <p align="left"> 💬 Ask me about **Mongo, Express, React and Node**</p>
 <h6 align="left">Contact:</h6>
 <p align="left"> 📫 How to reach me **lawrencejews@gmail.com** </p>
