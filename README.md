@@ -6,6 +6,7 @@
 <h5 align="left">Team projects:</h5>
 <p align="left"> Media art's zipshowkorea website : https://zipshowkorea.com </p>
 <p align="left"> Reservation locationpick website : https://locationpick.com </p>
+<p align="left"> The community showcase demo for Dall-E AI : https://zipshow-dall-e.netlify.app/</p>
 <h5 align="left">Growth plan:</h5>
 <p align="left">🌱 I’m currently learning **kubernetes -> Google, AWS and Azure**</p>
 <p align="left"> 💬 Ask me about **Mongo, Express, React and Node**</p>
