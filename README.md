@@ -2,6 +2,7 @@
 <h5 align="center">I really enjoy building and learning different programming languages</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawrencejews&label=Profile%20views&color=0e75b6&style=flat" alt="lawrencejews" /> </p>
 <h5 align="left">Sole Projects:</h5>
+<p align="left"> 🔭 Finished working on Fitness-Application -> https://fitnessapp-8jp.pages.dev/ </p>
 <p align="left"> 🔭 Finished working on Finance Dashoarboard with Machine Learning -> https://finance-dashboard-pi-rouge.vercel.app/ </p>
 <h5 align="left">Team projects:</h5>
 <p align="left"> Media art's zipshowkorea website : https://zipshowkorea.com </p>
