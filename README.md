@@ -1,5 +1,6 @@
 <h4 align="center">Hello, I'm Lawrence</h4>
-<h5 align="center">I really enjoy building and learning different programming languages</h5>
+![Cloud Computing](cloud.webp)
+<!-- <h5 align="center">I really enjoy building and learning different programming languages</h5> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawrencejews&label=Profile%20views&color=0e75b6&style=flat" alt="lawrencejews" /> </p>
 <h5 align="left">Sole Projects:</h5>
 <p align="left"> 🔭 Finished working on Fitness-Application -> https://fitnessapp-8jp.pages.dev/ </p>
