@@ -1,5 +1,5 @@
 <h4 align="center">Hello, I'm Lawrence</h4>
-![Cloud Computing](cloud.webp)
+![Cloud Computing](cloud2.webp)
 <!-- <h5 align="center">I really enjoy building and learning different programming languages</h5> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawrencejews&label=Profile%20views&color=0e75b6&style=flat" alt="lawrencejews" /> </p>
 <h5 align="left">Sole Projects:</h5>
